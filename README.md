@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashishvkale
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Technologies
 - 📫 How to reach me ashishvkale@gmail.com

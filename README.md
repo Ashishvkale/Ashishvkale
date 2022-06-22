@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ashishvkale
-- 👀 I’m interested in Front-end Development
-- 🌱 Currently Working on projects, coming soon on github.
-- 💞️ I’m looking to collaborate on Web Technologies
+- 👋 Hi, I’m @Ashishvkale #SoftwareDeveloper
+- 👀 Always looking to learn new tech. #Programming #Fullstack 
+- 🌱 Working on projects, commiting soon on github.
+- 💞️ Love Development to collaborate on Web Technologies
 - 📫 How to reach me ashishvkale@gmail.com
 
 <!---
